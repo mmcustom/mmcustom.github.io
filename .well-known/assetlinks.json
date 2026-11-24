@@ -8,5 +8,17 @@
         "C7:00:10:DA:A9:ED:B0:81:B5:90:D1:01:E1:C0:8E:09:21:9B:AF:54:43:C0:98:39:39:C2:7D:21:07:2F:AE:DF"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mmcustomwiring.sweetswap",
+      "sha256_cert_fingerprints": [
+        "FE:28:FD:7D:B8:86:32:0E:AD:51:AF:AA:50:8A:8A:6B:41:69:74:7F:D2:F5:C5:1E:73:A0:1C:C3:D4:EE:9A:21",
+        "BA:55:D4:34:F1:12:C8:2D:A7:1C:E1:A4:4D:EF:B9:8B:D9:CD:35:89:81:B2:98:25:50:B7:5D:E9:DB:B4:C1:9F",
+        "14:DC:74:CF:4C:35:69:47:2A:2A:F3:86:F7:9E:F3:43:F0:90:05:D9:6E:54:0E:92:63:5E:66:97:96:4E:E2:39"
+      ]
+    }
   }
 ]
